@@ -88,4 +88,4 @@ To run the project, ensure you have Python 3.8 or later installed. Follow these 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For questions or feedback, please contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please contact [your-email@example.com](mailto:jerminbodcheo@gmail.com).
