@@ -71,7 +71,7 @@ To run the project, ensure you have Python 3.8 or later installed. Follow these 
 - **Data Quality**: Missing values and inconsistencies in the original dataset may affect results.
   
 ## Team Members
-- **JERMIN ODCHEO*
+- **JERMIN ODCHEO**
 - **HELAENA MHAECAIKA TADINA**
 - **GREG ANTHONY BANGYAY**
 - **JAN MICHAEL TUGADE**
